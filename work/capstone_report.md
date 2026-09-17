@@ -2,7 +2,7 @@
 
 **Author:** HAMA Amdjed-Slimane  
 **Lane:** Freestyle — Predictive Quality of Experience (QoE) and Perceptual Visibility Modeling for Immersive Media Assets  
-**Repo:** [https://github.com/blankperson-cyber/flyrank-ml-internship](https://github.com/blankperson-cyber/flyrank-ml-internship)  
+**Repo:** https://github.com/blankperson-cyber/flyrank-ml-internship  
 **Date:** September 17, 2026  
 
 ---
