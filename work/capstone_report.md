@@ -35,7 +35,7 @@
 ## 3. Baseline
 
 * **Baseline Approach:** Transparent, rule-based mathematical scoring heuristic:
-  $$\text{Score} = \left(\frac{1.0}{\max(\text{avg\_position}, 1.0)}\right) \times (1.0 - \text{ctr}) \times \ln(1 + \text{word\_count})$$
+  $$\mathrm{Score} = \left(\frac{1.0}{\max(\mathrm{avg\_position}, 1.0)}\right) \times (1.0 - \mathrm{ctr}) \times \ln(1 + \mathrm{word\_count})$$
 * **Fair Comparison Justification:** The rule combines exposure (`avg_position`), capture friction (`1.0 - ctr`), and payload weight (`word_count`) without relying on future session targets.
 * **Baseline Metrics:**
   * *Total Evaluated Nodes:* 30,000
